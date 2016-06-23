@@ -1,0 +1,5 @@
+name: second_dependency
+version: 1.0.0
+dependencies:
+  dartdoc: ">=0.4.0 <0.9.0"
+  test: "^0.12.0"

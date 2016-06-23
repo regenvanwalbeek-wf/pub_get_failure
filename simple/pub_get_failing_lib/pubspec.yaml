@@ -1,0 +1,11 @@
+name: pub_get_failing_lib
+version: 1.0.0
+
+dependencies:
+  first_dependency:
+    path: ../first_dependency
+
+dev_dependencies:
+  coverage: "^0.7.3"
+  second_dependency:
+    path: ../second_dependency

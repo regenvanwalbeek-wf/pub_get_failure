@@ -1,0 +1,16 @@
+name: pub_get_failing_lib
+version: 1.0.0
+
+dependencies:
+  first_dependency:
+    path: ../first_dependency
+  w_module: "^0.3.2"
+  intl: "^0.12.0"
+
+dev_dependencies:
+  coverage: "^0.7.3"
+  dart_dev: "^1.0.0"
+  dart_style: ">=0.1.8 <0.3.0"
+  dartdoc: "^0.4.0"
+  mockito: "0.11.0"
+  test: "^0.12.0"
